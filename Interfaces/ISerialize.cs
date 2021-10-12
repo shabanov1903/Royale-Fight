@@ -1,0 +1,4 @@
+﻿interface ISerialize
+{
+    void ExecuteSerialize();
+}
